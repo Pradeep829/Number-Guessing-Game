@@ -40,12 +40,4 @@ Adjust your guess based on hints (Higher/Lower).
 
 Keep playing until you find the correct number!
 
-🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License.
-
-Enjoy playing the Number Guessing Game! 🎉
